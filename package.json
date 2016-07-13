@@ -1,0 +1,25 @@
+{
+  "name": "hearme",
+  "version": "1.0.0",
+  "description": "Contact all members of Congress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreki/hearme.git"
+  },
+  "keywords": [
+    "congress",
+    "senate",
+    "contact",
+    "email"
+  ],
+  "author": "Sean Gilbertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreki/hearme/issues"
+  },
+  "homepage": "https://github.com/dreki/hearme#readme"
+}
